@@ -93,10 +93,7 @@ function Header() {
             >
               <div className="flex flex-col leading-none">
                 <span className="font-display font-black text-lg md:text-xl text-primary tracking-tight">
-                  AZ DRYWALL
-                </span>
-                <span className="font-display font-medium text-xs md:text-sm text-primary tracking-widest uppercase">
-                  SOLUTION
+                  AZ DRYWALL SOLUTIONS LLC
                 </span>
               </div>
             </button>
@@ -166,10 +163,7 @@ function Header() {
               <div className="flex items-center justify-between p-6 border-b border-border">
                 <div className="flex flex-col leading-none">
                   <span className="font-display font-black text-lg text-primary">
-                    AZ DRYWALL
-                  </span>
-                  <span className="font-display font-medium text-xs text-primary tracking-widest uppercase">
-                    SOLUTION
+                    AZ DRYWALL SOLUTIONS LLC
                   </span>
                 </div>
                 <button
@@ -275,7 +269,7 @@ function Hero() {
             transition={{ delay: 0.35, duration: 0.7 }}
           >
             <span className="block">AZ DRYWALL</span>
-            <span className="block text-gradient-blue">SOLUTION</span>
+            <span className="block text-gradient-blue">SOLUTIONS LLC</span>
           </motion.h1>
 
           {/* Subheadline */}
@@ -551,9 +545,9 @@ function WhyUs() {
             <p className="font-body text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
               Unmatched craftsmanship, relentless attention to detail, and a
               commitment to excellence that turns every project into a
-              masterpiece. When you hire AZ Drywall Solution, you're not just
-              getting a contractor — you're getting Arizona's most dedicated
-              building partner.
+              masterpiece. When you hire AZ Drywall Solutions LLC, you're not
+              just getting a contractor — you're getting Arizona's most
+              dedicated building partner.
             </p>
           </motion.div>
 
@@ -1148,10 +1142,7 @@ function Footer() {
           <div>
             <div className="flex flex-col leading-none mb-4">
               <span className="font-display font-black text-2xl text-primary tracking-tight">
-                AZ DRYWALL
-              </span>
-              <span className="font-display font-medium text-sm text-primary tracking-widest uppercase">
-                SOLUTION
+                AZ DRYWALL SOLUTIONS LLC
               </span>
             </div>
             <p className="font-body text-sm text-muted-foreground leading-relaxed max-w-xs">
@@ -1213,7 +1204,7 @@ function Footer() {
         {/* Bottom bar */}
         <div className="pt-8 border-t border-border flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="font-body text-xs text-muted-foreground text-center md:text-left">
-            © {year} AZ Drywall Solution. All rights reserved. Licensed &
+            © {year} AZ Drywall Solutions LLC. All rights reserved. Licensed &
             Insured | Commercial & Residential
           </p>
           <p className="font-body text-xs text-muted-foreground text-center md:text-right">
